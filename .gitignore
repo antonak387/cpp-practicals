@@ -1,0 +1,35 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Qt-specific
+.moc/
+*.moc
+*.qmlc
+.qrc
+
+# Compiled Qt translation files
+*.qm
+
+# Generated Meta-Object Source and Header (moc)
+moc_*.cpp
+moc_*.h
+
+# Generated Resource files
+qrc_*.cpp
+qrc_*.h
+
+# User-specific files
+*.user
+*.pro.user
+*.pro.user.*
+
+# Ignore build directories
+build*/
